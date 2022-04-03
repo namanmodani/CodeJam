@@ -1,5 +1,5 @@
-# Google CodeJam 2022
-# d1000000: Approach 1
+# Google Code Jam 2022
+# d1000000: Submit Version
 # Naman Modani
 
 from collections import defaultdict

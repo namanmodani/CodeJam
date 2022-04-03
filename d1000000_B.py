@@ -1,5 +1,5 @@
-# Google CodeJam 2022
-# d1000000: Approach 2
+# Google Code Jam 2022
+# d1000000: Rewritten
 # Naman Modani
  
 def solve(n, sides):

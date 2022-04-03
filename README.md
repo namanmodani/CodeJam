@@ -12,5 +12,5 @@ The following table houses my score for each problem.
 | Punched Cards | 11/11 |
 | 3D Printing | 13/13 |
 | d1000000 | 20/20 |
-| Chain Reactions | 22/27 |
-| Twisty Little Passages | - |
+| Chain Reactions | 22?/27 |
+| Twisty Little Passages | F/29 |

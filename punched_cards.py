@@ -1,4 +1,4 @@
-# Google CodeJam 2022
+# Google Code Jam 2022
 # Punched Cards
 # Naman Modani
 
