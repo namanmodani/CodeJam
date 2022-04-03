@@ -1,5 +1,5 @@
 # Google CodeJam 2022
-# d1000000
+# d1000000: Approach 1
 # Naman Modani
 
 from collections import defaultdict
@@ -18,13 +18,11 @@ def solve():
   return count
 
 def main():
-
   N = int(input())
   results = []
 
   for _ in range(N):
     results.append(solve())
-
   for i in range(len(results)):
     print(f'Case #{i+1}: {results[i]}')
 
