@@ -1,0 +1,4 @@
+# ninja log v5
+1	43	1649472104306276871	build.ninja	5199186ebb190745
+0	233	1649472019421265058	CMakeFiles/CodeJam.dir/1A/double_or_one_thing.cpp.o	20da01925d77afbb
+234	268	1649472019457913925	CodeJam	ee5ab53b8e290d52
