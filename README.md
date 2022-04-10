@@ -16,3 +16,17 @@ The following table houses my score for each problem.
 | Twisty Little Passages | F/29 |
 
 Final Score: 66/100
+Final Rank: 6226
+
+## Round 1A
+
+The following table houses my score for each problem.
+
+| Problem | Score |
+| ------- | ----- |
+| Double or One Thing | 25/25 |
+| Equal Sum | F/31 |
+| Weightlifting | F/44 |
+
+Final Score: 25/100
+Final Rank: 7362
