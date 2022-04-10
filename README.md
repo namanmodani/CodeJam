@@ -1,7 +1,7 @@
 
 # Google Code Jam 2022 Solutions
 
-This repository contains my solutions to [Google Code Jam 2022](https://codingcompetitions.withgoogle.com/codejam) problems. All the source files have been written in Python 3.7.
+This repository contains my solutions to [Google Code Jam 2022](https://codingcompetitions.withgoogle.com/codejam) problems. All the source files have been written in Python 3.7 or C++ 17.
 
 ## Round 0: Qualification
 
