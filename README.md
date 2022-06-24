@@ -17,8 +17,8 @@ The following tables house my round-wise, problem-wise scores.
 | 4     | Chain Reactions        | 22/27     |
 | 5     | Twisty Little Passages | F/29      |
 
-Final Score: 66/100 <br>
-Final Rank: 6226 <br>
+Final Score: **66** <br>
+Final Rank: **6226** <br>
 
 ## Round 1A
 
@@ -28,5 +28,5 @@ Final Rank: 6226 <br>
 | 2     | Equal Sum           | F/31      |
 | 3     | Weightlifting       | F/44      |
 
-Final Score: 25/100 <br>
-Final Rank: 7362 <br>
+Final Score: **25** <br>
+Final Rank: **7362** <br>
